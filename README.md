@@ -1,19 +1,4 @@
----
-{
-  "id": "file_f822mdpi",
-  "filetype": "document",
-  "filename": "README",
-  "created_at": "2026-05-14T17:08:41.511Z",
-  "updated_at": "2026-05-14T17:24:31.660Z",
-  "meta": {
-    "location": "/",
-    "tags": [],
-    "categories": [],
-    "description": "",
-    "source": "markdown"
-  }
-}
----
+
 # Mini-Project: Multi-Agent Systems & Planning
 
 **USTHB — M1 SII — S2 | Agents Technology | 2025-2026**
