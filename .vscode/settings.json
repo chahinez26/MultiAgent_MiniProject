@@ -1,0 +1,6 @@
+{
+  "java.project.referencedLibraries": [
+    "Part1_Auction/lib/jade.jar",
+    "Part2_MultiCriteria_MobileAgents/lib/jade.jar"
+  ]
+}
